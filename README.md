@@ -12,5 +12,3 @@
   + clustering: K-means, hierarchical clustering, Gaussian mixture models, density-based clustering
   + model validation
   + text mining
-
-I created branches for each of the projects I worked on.
