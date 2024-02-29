@@ -7,8 +7,8 @@
 + Demonstrates the applicability and underlying principles of the various methods through case studies with extensive data sets.
 
 + **Topics include**:
-  + [ ] classification: linear regression, logistic regression, K-NN, and other classifiers
-  + [ ] dimensionality reduction
-  + [ ] clustering: K-means, hierarchical clustering, Gaussian mixture models, density-based clustering
-  + [ ] model validation
-  + [ ] text mining
+  + [x] classification: linear regression, logistic regression, K-NN, and other classifiers
+  + [x] dimensionality reduction
+  + [x] clustering: K-means, hierarchical clustering, Gaussian mixture models, density-based clustering
+  + [x] model validation
+  + [x] text mining
