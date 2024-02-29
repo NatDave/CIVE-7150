@@ -6,9 +6,9 @@
 + Discusses applications from the transportation, urban mobility, and infrastructure maintenance domains.
 + Demonstrates the applicability and underlying principles of the various methods through case studies with extensive data sets.
 
-+ **Topics include**:
-  + [x] classification: linear regression, logistic regression, K-NN, and other classifiers
-  + [x] dimensionality reduction
-  + [x] clustering: K-means, hierarchical clustering, Gaussian mixture models, density-based clustering
-  + [x] model validation
-  + [x] text mining
+* ***Topics include***:
+  - [x] classification: linear regression, logistic regression, K-NN, and other classifiers
+  - [x] dimensionality reduction
+  - [x] clustering: K-means, hierarchical clustering, Gaussian mixture models, density-based clustering
+  - [x] model validation
+  - [x] text mining
