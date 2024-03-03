@@ -12,3 +12,15 @@
   - [x] clustering: K-means, hierarchical clustering, Gaussian mixture models, density-based clustering
   - [x] model validation
   - [x] text mining
+
+
+## Dependencies
+
+- Python 3
+- scikit-learn
+- numpy
+- pandas
+- matplotlib
+
+Install the required dependencies using pip:
+pip install scikit-learn numpy pandas matplotlib
