@@ -22,6 +22,7 @@
 - numpy
 - pandas
 - matplotlib
+- ucimlrepo
 
 Install the required dependencies using pip:
 pip install scikit-learn numpy pandas matplotlib
