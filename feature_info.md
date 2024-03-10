@@ -1,4 +1,4 @@
-## Feature information
+## Feature information for kc_house_data.csv, test.csv, and train.csv
 
 
 **id** - Unique ID for each home sold 
