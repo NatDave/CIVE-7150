@@ -7,8 +7,8 @@
 + Demonstrates the applicability and underlying principles of the various methods through case studies with extensive data sets.
 
 + ***Topics include***:
-  - [x] Regression: Simple Linear, Multiple Linear, Polynomial, Ridge and Lasso Regression
-  - [x] Classification: Logistic regression, kNN, Decision Trees, LDA, SVM, Random Forest, Naive Bayes, Neural Networks
+  - [x] Regression: Simple Linear, Multiple Linear, Polynomial, Ridge and Lasso Regression, Decision Trees
+  - [x] Classification: Logistic regression, kNN, LDA, Support Vector Machines, Decision Trees, Random Forest, Gradient Boosting Machines, Naive Bayes, Neural Networks
   - [x] Dimensionality Reduction
   - [x] Gradient Descent (L1 and L2 regularization)
   - [x] Clustering: K-means, Hierarchical Clustering, Gaussian Mixture Models, Density-based Clustering
