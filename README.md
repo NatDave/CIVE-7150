@@ -8,7 +8,7 @@
 
 + ***Topics include***:
   - [x] Regression: Simple Linear, Multiple Linear, Polynomial, Ridge and Lasso Regression, Decision Trees
-  - [x] Classification: Logistic regression, kNN, LDA, Support Vector Machines, Decision Trees, Random Forest, Gradient Boosting Machines, Naive Bayes, Neural Networks
+  - [x] Classification: Logistic regression, kNN, LDA, Support Vector Machines, Decision Trees, Random Forests, Gradient Boosting Machines, Naive Bayes, Neural Networks
   - [x] Dimensionality Reduction
   - [x] Gradient Descent (L1 and L2 regularization)
   - [x] Clustering: K-means, Hierarchical Clustering, Gaussian Mixture Models, Density-based Clustering
