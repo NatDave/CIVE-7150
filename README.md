@@ -1,6 +1,6 @@
 # CIVE 7150
   ## Data-Driven Decision Support 💻
-+ I took this course in the second semester of my PhD.
++ I took this course in the second semester of my PhD. All projects in this repo were completed by me.
 + It presents *supervised* and *unsupervised* methods for dealing with large data sets and their application to support decision making in various areas.
 + Focuses on predictive models and methods for knowledge mining.
 + Discusses applications from the transportation, urban mobility, and infrastructure maintenance domains.
